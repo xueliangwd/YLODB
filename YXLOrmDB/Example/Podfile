@@ -1,7 +1,7 @@
 use_frameworks!
 
 target 'YXLOrmDB_Example' do
-  pod 'YXLOrmDB', :path => '../'
+  pod 'YXLOrmDB', :path => '/Users/yuxueliang/Public/LocalGit/YLODB/YXLOrmDB'
 
   target 'YXLOrmDB_Tests' do
     inherit! :search_paths
