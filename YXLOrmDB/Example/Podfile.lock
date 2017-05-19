@@ -1,0 +1,21 @@
+PODS:
+  - FMDB (2.6.2):
+    - FMDB/standard (= 2.6.2)
+  - FMDB/standard (2.6.2)
+  - YXLOrmDB (0.1.0)
+
+DEPENDENCIES:
+  - FMDB
+  - YXLOrmDB (from `../`)
+
+EXTERNAL SOURCES:
+  YXLOrmDB:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
+  YXLOrmDB: 4ded4f3fb9bd0c18787c673eebaf3c55ccee284c
+
+PODFILE CHECKSUM: 0e7ed8ffaf895281f625b45e1560042f3297e637
+
+COCOAPODS: 1.2.1

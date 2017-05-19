@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YXLOrmDB_Example' do
+  pod 'YXLOrmDB', :path => '../'
+
+  target 'YXLOrmDB_Tests' do
+    inherit! :search_paths
+
+    pod 'FMDB'
+  end
+end
