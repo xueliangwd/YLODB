@@ -11,9 +11,6 @@
 @implementation BKJFMDBManager
 
 
-static  FMDatabase *db = nil;
-
-
 
 + (BKJFMDBManager *)shareManager{
     static BKJFMDBManager *manager = nil;
