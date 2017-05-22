@@ -6,16 +6,16 @@ PODS:
 
 DEPENDENCIES:
   - FMDB
-  - YXLOrmDB (from `../`)
+  - YXLOrmDB (from `/Users/yuxueliang/Public/LocalGit/YLODB/YXLOrmDB`)
 
 EXTERNAL SOURCES:
   YXLOrmDB:
-    :path: ../
+    :path: /Users/yuxueliang/Public/LocalGit/YLODB/YXLOrmDB
 
 SPEC CHECKSUMS:
   FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
-  YXLOrmDB: 4ded4f3fb9bd0c18787c673eebaf3c55ccee284c
+  YXLOrmDB: 3ac7719e34ff0e2bd03121b44dd4c34ffa13ffc1
 
-PODFILE CHECKSUM: 0e7ed8ffaf895281f625b45e1560042f3297e637
+PODFILE CHECKSUM: ea7af325e446712d431daa65bbbdd7b08467f254
 
 COCOAPODS: 1.2.1

@@ -7,7 +7,7 @@
 //
 
 #import "BKJFMDBManager.h"
-
+#import <FMDB/FMDB.h>
 @implementation BKJFMDBManager
 
 

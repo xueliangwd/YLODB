@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-
+@class FMDatabase;
 @interface BKJFMDBManager : NSObject
 
 + (BKJFMDBManager *)shareManager;
